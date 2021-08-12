@@ -31,3 +31,5 @@ The data provided in this Github link above is the fuel quality data from the Fe
 
 'fuel_cost_per_mmbtu': the cost of fuel per mmbtu
 
+# Dependencies
+python 3.7.9, jupyter notebook, numpy, pandas, matplotlib, seaborn
